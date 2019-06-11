@@ -5,3 +5,4 @@ Manuals
 
 Test Rebase
 - note 1
+- note 2

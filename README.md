@@ -12,3 +12,4 @@ Test Rebase
 Test Rebase 2
 - note 1
 - note 2
+- note 3

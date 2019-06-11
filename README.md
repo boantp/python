@@ -15,3 +15,6 @@ Test Rebase 2
 - note 1
 - note 2
 - note 3
+
+Test Rebase Detail
+- note 1

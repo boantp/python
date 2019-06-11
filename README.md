@@ -4,6 +4,7 @@ Manuals
 - Test Rebase2
 - Test Rebase Detail
 - Test Rebase Detail 2
+- Test Rebase Detail 3
 
 
 Test Rebase

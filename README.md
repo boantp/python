@@ -20,3 +20,4 @@ Test Rebase 2
 Test Rebase Detail
 - note 1
 - note 2
+- note 3

@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def status(request):
-    return HttpResponse("iyeeeee")
+    return HttpResponse("btp")

@@ -1,0 +1,66 @@
+FORMAT: 1A
+HOST: http://lender.apiblueprint.org/
+
+# lender
+
+Lender is a simple API allowing change lender in Lender Site.
+
+## Lender Switching Collection [/lender_switching]
+
+### Switch Lender [POST]
+
+Lender swithcing is a simple API allowing change lender/distributor for each LenderTransactionMap,
+with process check eligible loan to be switched, assign lender round robin logic or direct, 
+Create the new restructured lender loan, Replicate the original lender loan payment to the new lender loan,
+Close the outstanding original lender loan, and Record the loan switching result.
+
++ Request (application/json)
+
+        {
+            "lender_loan": [
+                    {
+                        "lender_transaction_map_id": 11,
+                        "lender_switching_reason": "When a lender wants to withdraw its funds.",
+                        "lender_id":1 # direct assign lender
+                    }, {
+                        "lender_transaction_map_id": 12,
+                        "lender_switching_reason": "One or more lender’s cap is exceeded",
+                        "lender_id":0 # round robin assign lender
+                    }, {
+                        "lender_transaction_map_id": 13,
+                        "lender_switching_reason": "When one or more lender’s tranches are expired",
+                        "lender_id":3 # direct assign lender
+                    }, {
+                        "lender_transaction_map_id": 14,
+                        "lender_switching_reason": "When one or more lender’s tranches are expired",
+                        "lender_id":5 # direct assign lender
+                    }
+                ]
+        }
+
++ Response 201 (application/json)
+
+
+    + Body
+
+            {
+                "lender_loan": [
+                    {
+                        "ltm_id_old": 11,
+                        "ltm_id_new": 21,
+                        "lender_switching_status": "success"
+                    }, {
+                        "ltm_id_old": 12,
+                        "ltm_id_new": 22,
+                        "lender_switching_status": "error"
+                    }, {
+                        "ltm_id_old": 13,
+                        "ltm_id_new": 23,
+                        "lender_switching_status": "success"
+                    }, {
+                        "ltm_id_old": 14,
+                        "ltm_id_new": 24,
+                        "lender_switching_status": "success"
+                    }
+                ]
+            }

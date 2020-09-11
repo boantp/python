@@ -1,15 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:ticket1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a0dab828-c8f4-4a93-be89-f21d5857dd2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/mysite/mysite/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django/mysite/mysite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/mysite/mysite/views.py" afterDir="false" />
     </list>
+    <list id="6590d03f-bc1b-4db9-8326-d6fe396aa326" name="commit1" comment="" />
+    <list id="b4226e14-57b2-4ade-89d7-f8bd5175c60d" name="commit2" comment="" />
+    <list id="37d83737-de60-4a2b-93ea-b999d3c5d5da" name="commit3" comment="" />
+    <list id="c6f1d9de-01a8-4ba9-8940-bdb7313edf00" name="commit4" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="INTERACTIVE" />
+      </set>
+    </option>
+    <option name="NEW_BASE" value="ticket1" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="staging" />
+      </map>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="ticket2" />
@@ -45,6 +89,15 @@
       <workItem from="1567503959857" duration="240000" />
       <workItem from="1599817536119" duration="1186000" />
     </task>
+    <task id="LOCAL-00001" summary="commit2">
+      <created>1599819021525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599819021525</updated>
+      <workItem from="1599817536119" duration="1186000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,7 +108,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="ticket1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -67,5 +132,26 @@
       <screen x="65" y="24" width="2495" height="1056" />
     </state>
     <state x="912" y="275" key="Vcs.Push.Dialog.v2/65.24.2495.1056@65.24.2495.1056" timestamp="1599818537425" />
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit1" />
+    <MESSAGE value="commit1-ticket2" />
+    <MESSAGE value="commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="856" y="88" key="CommitChangelistDialog2" timestamp="1599819021428">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="856" y="88" key="CommitChangelistDialog2/65.24.2495.1056@65.24.2495.1056" timestamp="1599819021428" />
+    <state x="1161" y="455" key="VCS.ChangelistChooser" timestamp="1599820763999">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="1161" y="455" key="VCS.ChangelistChooser/65.24.2495.1056@65.24.2495.1056" timestamp="1599820763999" />
+    <state x="912" y="275" key="Vcs.Push.Dialog.v2" timestamp="1599818977812">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="912" y="275" key="Vcs.Push.Dialog.v2/65.24.2495.1056@65.24.2495.1056" timestamp="1599818977812" />
   </component>
 </project>

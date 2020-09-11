@@ -4,5 +4,5 @@ from django.contrib import admin
 urlpatterns = patterns('',
                        url(r'^admin/', include(admin.site.urls)),
                        url(r'^polls/', include('polls.urls')),
-                       #url(r'^$', views.status),
+                       #url(r'^$', views.statusss),
                        )

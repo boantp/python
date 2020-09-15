@@ -44,12 +44,12 @@
   <component name="GitRewordedCommitMessages">
     <option name="commitMessagesMapping">
       <RewordedCommitMessageMapping>
-        <option name="originalMessage" value="fitur-1" />
-        <option name="rewordedMessage" value="fitur-1 and fitur-2" />
+        <option name="originalMessage" value="txe-001" />
+        <option name="rewordedMessage" value="txe-001 and txe-002" />
       </RewordedCommitMessageMapping>
     </option>
     <option name="currentCommit" value="1" />
-    <option name="onto" value="d4836b6d77c6aba7ca2482d599638e573fd02efa" />
+    <option name="onto" value="e57ed285c7b7b91d47337b8ad85db76977d14042" />
   </component>
   <component name="JupyterTrust" id="bd919411-b7e8-49c9-ae71-6f46ba421421" />
   <component name="ProjectId" id="1QK0Pl5UcqXltiWmKFwfH02oEIA" />
@@ -105,19 +105,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="TXE-001" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -140,29 +128,29 @@
       <screen x="65" y="24" width="2495" height="1056" />
     </state>
     <state x="165" y="96" width="2295" height="884" key="DiffContextDialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600161082176" />
-    <state x="1306" y="76" key="Git.Interactive.Rebase.Dialog" timestamp="1600158116723">
+    <state x="1306" y="76" key="Git.Interactive.Rebase.Dialog" timestamp="1600161615551">
       <screen x="65" y="24" width="2495" height="1056" />
     </state>
-    <state x="1306" y="76" key="Git.Interactive.Rebase.Dialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600158116723" />
+    <state x="1306" y="76" key="Git.Interactive.Rebase.Dialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600161615551" />
     <state x="1122" y="445" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1600157852507">
       <screen x="65" y="24" width="2495" height="1056" />
     </state>
     <state x="1122" y="445" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600157852507" />
-    <state x="314" y="102" key="MergeDialog" timestamp="1600157616356">
+    <state x="314" y="102" key="MergeDialog" timestamp="1600161502569">
       <screen x="65" y="24" width="2495" height="1056" />
     </state>
-    <state x="314" y="102" key="MergeDialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600157616356" />
-    <state x="948" y="301" key="MultipleFileMergeDialog" timestamp="1600157616360">
+    <state x="314" y="102" key="MergeDialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600161502569" />
+    <state x="948" y="301" key="MultipleFileMergeDialog" timestamp="1600161502572">
       <screen x="65" y="24" width="2495" height="1056" />
     </state>
-    <state x="948" y="301" key="MultipleFileMergeDialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600157616360" />
-    <state x="912" y="261" key="Vcs.Push.Dialog.v2" timestamp="1600160156430">
+    <state x="948" y="301" key="MultipleFileMergeDialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600161502572" />
+    <state x="912" y="261" key="Vcs.Push.Dialog.v2" timestamp="1600161637666">
       <screen x="65" y="24" width="2495" height="1056" />
     </state>
-    <state x="912" y="261" key="Vcs.Push.Dialog.v2/65.24.2495.1056@65.24.2495.1056" timestamp="1600160156430" />
-    <state x="1147" y="458" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1600157681519">
+    <state x="912" y="261" key="Vcs.Push.Dialog.v2/65.24.2495.1056@65.24.2495.1056" timestamp="1600161637666" />
+    <state x="1147" y="458" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1600161505354">
       <screen x="65" y="24" width="2495" height="1056" />
     </state>
-    <state x="1147" y="458" key="git4idea.rebase.GitUnstructuredEditor/65.24.2495.1056@65.24.2495.1056" timestamp="1600157681519" />
+    <state x="1147" y="458" key="git4idea.rebase.GitUnstructuredEditor/65.24.2495.1056@65.24.2495.1056" timestamp="1600161505354" />
   </component>
 </project>

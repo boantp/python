@@ -1,18 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:TXE-001" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a0dab828-c8f4-4a93-be89-f21d5857dd2d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/django/mysite/mysite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/mysite/mysite/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/mysite/mysite/urls.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="fitur-1" />
+        <option name="rewordedMessage" value="fitur-1 and fitur-2" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="d4836b6d77c6aba7ca2482d599638e573fd02efa" />
+  </component>
+  <component name="JupyterTrust" id="bd919411-b7e8-49c9-ae71-6f46ba421421" />
   <component name="ProjectId" id="1QK0Pl5UcqXltiWmKFwfH02oEIA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -21,18 +60,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,6 +73,28 @@
       <updated>1567503958524</updated>
       <workItem from="1567503959857" duration="240000" />
     </task>
+    <task id="LOCAL-00001" summary="fitur-1">
+      <created>1600157271895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600157271895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fitur-2">
+      <created>1600157306829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600157306829</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hotfix">
+      <created>1600157365316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600157365316</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,10 +105,64 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="TXE-001" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fitur-1" />
+    <MESSAGE value="fitur-2" />
+    <MESSAGE value="hotfix" />
+    <MESSAGE value="fitur-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hotfix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="856" y="88" key="CommitChangelistDialog2" timestamp="1600157365191">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="856" y="88" key="CommitChangelistDialog2/65.24.2495.1056@65.24.2495.1056" timestamp="1600157365191" />
+    <state x="165" y="96" width="2295" height="884" key="DiffContextDialog" timestamp="1600161082176">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="165" y="96" width="2295" height="884" key="DiffContextDialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600161082176" />
+    <state x="1306" y="76" key="Git.Interactive.Rebase.Dialog" timestamp="1600158116723">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="1306" y="76" key="Git.Interactive.Rebase.Dialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600158116723" />
+    <state x="1122" y="445" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1600157852507">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="1122" y="445" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600157852507" />
+    <state x="314" y="102" key="MergeDialog" timestamp="1600157616356">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="314" y="102" key="MergeDialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600157616356" />
+    <state x="948" y="301" key="MultipleFileMergeDialog" timestamp="1600157616360">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="948" y="301" key="MultipleFileMergeDialog/65.24.2495.1056@65.24.2495.1056" timestamp="1600157616360" />
+    <state x="912" y="261" key="Vcs.Push.Dialog.v2" timestamp="1600160156430">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="912" y="261" key="Vcs.Push.Dialog.v2/65.24.2495.1056@65.24.2495.1056" timestamp="1600160156430" />
+    <state x="1147" y="458" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1600157681519">
+      <screen x="65" y="24" width="2495" height="1056" />
+    </state>
+    <state x="1147" y="458" key="git4idea.rebase.GitUnstructuredEditor/65.24.2495.1056@65.24.2495.1056" timestamp="1600157681519" />
   </component>
 </project>
